@@ -7,7 +7,7 @@ A Corrective RAG (CRAG) framework is implemented to evaluate retrieved document 
 
 Multiple specialized AI agents powered by Google Gemini collaborate for reasoning, validation, and synthesis. The application features an interactive Streamlit interface with real-time execution tracing and SQLite-based session persistence for maintaining conversational context.
 
-##Key Features:
+# Key Features:
 
 Multi-agent orchestration using LangGraph
 Hybrid RAG pipeline (FAISS + Tavily Search API)
